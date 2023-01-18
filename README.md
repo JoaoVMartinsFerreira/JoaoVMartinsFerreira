@@ -29,9 +29,5 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/yTekilla/yTekilla/blob/output/snake.svg" alt="Snake animation" />
 
-###
-Profile Readme Generator
