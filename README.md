@@ -9,11 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/klorsRB2_csAAAAd/beherit-%D0%B1%D0%B5%D1%85%D0%B5%D1%80%D0%B8%D1%82.gif"  />
-
-
-###
-
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" width="42" alt="csharp logo"  />
