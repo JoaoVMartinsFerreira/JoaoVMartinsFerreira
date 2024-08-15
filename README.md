@@ -11,7 +11,6 @@
 
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" width="42" alt="csharp logo"  />
 </div>
 
 ###
