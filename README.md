@@ -9,10 +9,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" height="30" width="42" alt="javascript logo"  />
-</div>
-
 ###
 
 <div align="left">
